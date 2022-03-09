@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url('AmericaInsomnio.png');
+}
+.form-register{
+	width: 400px;
+	box-shadow: 0px 10px 10px #000;
+	background: #24303c;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 25px;
+	font-family:'calibri';
+	color: white;
+}
+ .form-register .Titulo{
+ 	font-size: 35px;
+ }
+ .p{
+ 	font-size: 22px;
+ 	margin-bottom: 20px;
+ }
+ .controls{
+ 	widows: 100%;
+ 	background: #24303c;
+ 	padding: 10px;
+ 	border-radius: 4px;
+ 	margin-bottom: 16px;
+ 	border:1px solid white;
+ 	font-family: 'calibri';
+ 	font-size: 18px;
+ 	color: white;
+ }
+ .form-register .submit{
+	widows: 100%;
+ 	background: #1f53c5;
+ 	border: none;
+ 	padding: 12px;
+ 	color: white;
+ 	margin: 16px 0;
+ 	fomr-size: 16px;
+ 	
+ }
+.form-register .color{
+
+	border:0px solid white;
+}
